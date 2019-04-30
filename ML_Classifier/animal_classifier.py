@@ -1,3 +1,13 @@
+'''
+        IMPLEMENTATION DATE : 30/04/2019
+
+        SCOPE OF IMPLEMENTATION:
+            To learn simple ML Classifier based on decision trees by using
+            sklearn library
+
+        Explanation:
+            In this program we can predict the animal category with sample training data
+'''
 from sklearn import tree
 
 class AnimalsDetector:
